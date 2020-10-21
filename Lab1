@@ -1,0 +1,86 @@
+<! DOCTYPE html> 
+<html>
+   <head>
+		<meta charset="UTF-8">
+		<title>Lab.1</title>
+   </head>
+   
+   <body>
+      <h1 align="center">Журавель Олександр</h1>
+	  <div>
+			<img src="image.jpg" align="left">
+			<p> 
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at lectus non erat vestibulum congue. Morbi iaculis volutpat dui et vestibulum. Vivamus placerat nulla id porta ullamcorper. Donec quis dictum ligula, in ullamcorper metus. Morbi tristique nisi sollicitudin risus luctus feugiat. Pellentesque varius, sem vitae volutpat auctor, velit metus interdum sapien, et pulvinar elit justo sed massa. Donec nibh mauris, mattis eu semper ultricies, porttitor sit amet mi. Proin sed accumsan nunc, eget semper quam. Proin auctor dictum ipsum quis consequat. Aenean nec pulvinar elit. Quisque risus nisl, consequat et diam a, semper consequat justo. Phasellus fringilla odio id mauris viverra tempus. Nunc id neque congue, hendrerit mauris eget, ultricies diam. Integer ac vulputate arcu, quis eleifend turpis. Nunc in sem eu arcu euismod scelerisque ornare scelerisque sem.<br>Praesent egestas laoreet justo. Morbi pulvinar et tellus sit amet mattis. Donec tristique consectetur erat, eget dignissim massa euismod ut. Vestibulum mattis orci hendrerit leo ultrices, in sagittis ligula gravida. Sed volutpat sapien purus, at semper justo pharetra quis. Aenean facilisis est eget condimentum aliquam. Vestibulum porttitor facilisis lorem venenatis aliquet. Pellentesque in dolor vitae ex fermentum luctus. Praesent in accumsan elit, nec faucibus diam. Quisque pulvinar ligula a auctor ultrices.
+			</p>
+	  </div>
+	  <div align="center">
+			<ul>
+				<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+				<li>Morbi ultrices purus et efficitur sagittis.</li>
+				<li>Donec pellentesque magna accumsan est congue, eu pretium mauris sagittis.</li>
+				<li>Nunc id libero eget nulla ornare mollis.</li>
+				<li>Praesent ac ligula ac quam suscipit tempus vitae in ex.</li>
+			</ul>
+			<ol>
+				<li><a href="https://www.youtube.com/watch?v=bWNmJqgri4Q&t=1245s&ab_channel=%D0%A5%D0%B0%D1%83%D0%B4%D0%B8%D0%A5%D0%BE%E2%84%A2-%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BE%D0%BC%D0%B8%D1%80%D0%B5IT%21">Vivamus ut justo finibus, posuere magna sit amet, convallis nulla.</a></li>
+				<li><a href="https://www.youtube.com/watch?v=bWNmJqgri4Q&t=1245s&ab_channel=%D0%A5%D0%B0%D1%83%D0%B4%D0%B8%D0%A5%D0%BE%E2%84%A2-%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BE%D0%BC%D0%B8%D1%80%D0%B5IT%21">Nulla id orci vestibulum lorem ornare feugiat at sit amet augue.</a></li>
+				<li><a href="https://www.youtube.com/watch?v=bWNmJqgri4Q&t=1245s&ab_channel=%D0%A5%D0%B0%D1%83%D0%B4%D0%B8%D0%A5%D0%BE%E2%84%A2-%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BE%D0%BC%D0%B8%D1%80%D0%B5IT%21">Quisque consectetur elit venenatis nisi tincidunt, quis scelerisque dolor congue.</a></li>
+				<li><a href="https://www.youtube.com/watch?v=bWNmJqgri4Q&t=1245s&ab_channel=%D0%A5%D0%B0%D1%83%D0%B4%D0%B8%D0%A5%D0%BE%E2%84%A2-%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BE%D0%BC%D0%B8%D1%80%D0%B5IT%21">Fusce lacinia sem quis tellus ultrices, eu scelerisque diam rutrum.</a></li>
+			</ol>
+	  </div>
+	  <div>
+		<table border="5" width="50%" cellpadding="1" align="left">
+			<tr>
+				<th>Skill</th>
+				<th>Rate</th>
+			</tr>
+			<tr>
+				<td>Laziness</td>
+				<td>&#9734;&#9734;&#9734;&#9734;&#9734;</td>
+			</tr>
+			<tr>
+				<td>English</td>
+				<td>&#9734;</td>
+			</tr>
+			<tr>
+				<td>Gaming</td>
+				<td>&#9734;&#9734;&#9734;&#9734;</td>
+			</tr>
+			<tr>
+				<td>Hardworking</td>
+				<td>&#9734;</td>
+			</tr>
+			<tr>
+				<td>Creativity</td>
+				<td>&#9734;</td>
+			</tr>
+		</table>
+		<table border="5" width="50%" cellpadding="1" align="right">
+			<tr>
+				<th>Skill</th>
+				<th>Rate</th>
+			</tr>
+			<tr>
+				<td>Procrastination</td>
+				<td>&#9734;&#9734;&#9734;&#9734;&#9734;</td>
+			</tr>
+			<tr>
+				<td>Intelligence</td>
+				<td>&#9734;&#9734;</td>
+			</tr>
+			<tr>
+				<td>Python</td>
+				<td>&#9734;</td>
+			</tr>
+			<tr>
+				<td>C++</td>
+				<td>&#9734;</td>
+			</tr>
+			<tr>
+				<td>Html</td>
+				<td>&#9734;</td>
+			</tr>
+		</table>
+	  </div>
+   </body>
+</html>
